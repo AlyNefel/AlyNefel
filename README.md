@@ -1,4 +1,4 @@
-👋 Hi, I’m @Aly
+👋 Hi, I’m Aly
 
 👀 I’m interested in making the internet a funnier place, one line of code at a time. You know, like a digital comedian! 🎭
 

@@ -2,8 +2,6 @@
 
 👀 I’m interested in making the internet a funnier place, one line of code at a time. You know, like a digital comedian! 🎭
 
-🌱 I’m currently learning how to speak fluent "Machine learning" – it’s like learning a new language, but the only thing I can say is "Hello, World!" 🌍
-
 💞️ I’m looking to collaborate on projects that can solve world hunger, or at least improve my snack game. 🍕 If it involves pizza, I’m in!
 
 📫 How to reach me: Send a carrier pigeon! 🕊️ (Just kidding, my email is ali.essoudani@nefel.education. But if you find a pigeon, I’ll still accept that as a valid form of communication!

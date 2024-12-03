@@ -28,6 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&icons=true&theme=radical )](https://github.com/AlyNefel/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&layout=donut)](https://github.com/AlyNefel/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlyNefel)](https://github.com/AlyNefel/github-readme-stats)
 <!---
 
 AlyNefel/AlyNefel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

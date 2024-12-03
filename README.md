@@ -14,7 +14,7 @@
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical)
-
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 

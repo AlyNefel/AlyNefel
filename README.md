@@ -12,10 +12,11 @@
 
 
 
-![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) 
+###
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlyNefel)](https://github.com/AlyNefel/github-readme-stats)
+
 <!---
 
 AlyNefel/AlyNefel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

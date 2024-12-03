@@ -16,7 +16,7 @@
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical)
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&icons=true&theme=radical )](https://github.com/AlyNefel/github-readme-stats)
 
 <!---
 

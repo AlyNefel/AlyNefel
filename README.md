@@ -14,20 +14,7 @@
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true" />
-</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&icons=true&theme=radical )](https://github.com/AlyNefel/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&layout=donut)](https://github.com/AlyNefel/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlyNefel)](https://github.com/AlyNefel/github-readme-stats)
 <!---
 

@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true" />
 </picture>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 

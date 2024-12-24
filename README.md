@@ -14,10 +14,12 @@
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) 
 ###
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&count_private=true)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&count_private=true&cache_seconds=1)
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&cache_seconds=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&layout=compact&theme=radical&count_private=true)
+
 [![wakatime](https://wakatime.com/badge/user/e88843bf-318c-4798-a800-1993791bfa0e.svg?style=for-the-badge&cache_seconds=1800)](https://wakatime.com/@e88843bf-318c-4798-a800-1993791bfa0e)
 
 

@@ -14,7 +14,7 @@
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) 
 ###
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&count_private=true&cache_seconds=1)
+
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&count_private=true&token=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)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&layout=compact&theme=radical&count_private=true&token=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)

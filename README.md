@@ -38,9 +38,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![wakatime](https://wakatime.com/badge/user/AlyNefel.svg?style=for-the-badge)](https://wakatime.com/@dAlyNefel)
-
-
 
 <!-- TODO: Add cv download link -->
 

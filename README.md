@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![wakatime](https://wakatime.com/badge/user/e88843bf-318c-4798-a800-1993791bfa0e.svg?style=for-the-badge)](https://wakatime.com/@d47f8334-d555-4ecd-802f-2052519fe5ec)
+[![wakatime](https://wakatime.com/badge/user/AlyNefel.svg?style=for-the-badge)](https://wakatime.com/@dAlyNefel)
 
 
 

@@ -16,7 +16,7 @@
 ###
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&count_private=true&cache_seconds=1)
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&cache_seconds=1)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&layout=compact&theme=radical&count_private=true)
 

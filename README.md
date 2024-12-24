@@ -17,7 +17,7 @@
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&cache_seconds=1)
 
-[![wakatime](https://wakatime.com/badge/user/AlyNefel.svg?style=for-the-badge&cache_seconds=1800)](https://wakatime.com/@AlyNefel)
+[![wakatime](https://wakatime.com/badge/user/e88843bf-318c-4798-a800-1993791bfa0e.svg?style=for-the-badge&cache_seconds=1800)](https://wakatime.com/@e88843bf-318c-4798-a800-1993791bfa0e)
 
 
 

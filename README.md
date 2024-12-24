@@ -18,7 +18,10 @@
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&count_private=true&token=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)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&layout=compact&theme=radical&count_private=true&token=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)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&layout=compact&theme=radical&count_private=true&token=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&cache_seconds=1800)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&layout=compact&theme=radical)
 
 [![wakatime](https://wakatime.com/badge/user/e88843bf-318c-4798-a800-1993791bfa0e.svg?style=for-the-badge&cache_seconds=1800)](https://wakatime.com/@e88843bf-318c-4798-a800-1993791bfa0e)
 

@@ -14,6 +14,7 @@
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) 
 ###
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&count_private=true)
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyNefel&show_icons=true&theme=radical&cache_seconds=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyNefel&layout=compact&theme=radical)
